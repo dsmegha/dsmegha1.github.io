@@ -11,8 +11,8 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-twitter: "twitter.com/dsmegha"
-facebook: "facebook.com/dsmegha"
+twitter: "http://twitter.com/dsmegha"
+facebook: "http://facebook.com/dsmegha"
 
 encoding: utf-8
 defaults:
